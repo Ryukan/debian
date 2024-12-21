@@ -1,0 +1,1 @@
+Battery Health Charging   -> configura la batteria ed eventuali limiti di carica
