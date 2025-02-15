@@ -11,8 +11,7 @@ wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo gpg --dearmor -o /
 
 
 Add repository:
-sudo mkdir -pm755 /etc/apt/keyrings
-wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo gpg --dearmor -o /etc/apt/keyrings/winehq-archive.key -
+
 
 sudo apt update
 
