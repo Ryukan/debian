@@ -4,7 +4,8 @@ INstall font di windows 11
 git clone https://github.com/mrbvrz/segoe-ui-linux
 Font installed on '/home/alessandro/.local/share/fonts/Microsoft/TrueType/SegoeUI/'
 
-
+# Monospace Text
+Font: Fira Code Medium (scaricabile via apt)
 
 
 # Font Originali:

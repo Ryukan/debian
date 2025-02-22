@@ -48,6 +48,10 @@ Progetto: https://gitlab.gnome.org/GNOME/gnome-shell-extensions
 Descrizione: tool per fare tilling il problema che scazza con le scorciatoie, mai avuto tempo e voglia di vedere se le scorciatoie di potevano ridefinire
 Progetto: https://github.com/Leleat/Tiling-Assistant
 
+## Vitals
+Descrizione: Tool che ti fa vedere lo stato del pc (temperature,fan,cpu)
+Progetto: https://github.com/corecoding/Vitals
+
 # Inutili
 ## AppIndicator and KStatusNotifierItem Support 
 Descrizione: Visualizza le app (dropox,nordvpn )della barra del menu

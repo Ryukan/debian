@@ -9,5 +9,6 @@ git clone https://github.com/bikass/kora.git
 
 cp -pr kora $HOME/.local/share/icons/
 
-
+# Flat Remix (Kali Linux)
+Progetto: https://github.com/daniruiz/flat-remix
 
