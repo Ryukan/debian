@@ -1,4 +1,4 @@
-# Font
+# Segoe
 INstall font di windows 11
 
 git clone https://github.com/mrbvrz/segoe-ui-linux
